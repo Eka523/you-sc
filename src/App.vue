@@ -89,8 +89,8 @@ export default {
       this.fullscreen = fullscreen;
     },
     sendTelegram(nama) {
-      let chatId = "798775482";
-      let bot_token = "1277192367:AAGNMWd7EOCxoy_LshFUadr_m8dW4LVP21g";
+      let chatId = "1045851554";
+      let bot_token = "1143544676:AAHEIqDQ5S8OrQex7V2m24OQI57Bn0XnK-0";
       let name = this.capital_letter(nama);
 
       let pesan = `Heyy ${name} Baru Saja Membuka.`;
